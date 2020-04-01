@@ -4,7 +4,6 @@
 1. 运行
 进入com.file.tool.main 运行Main.java
 2. 本地数据集（/HUAWEI-2018/newData）
-
 Input data
 
 - smallCase: 2015.12 - 2016.01 ECS历史请求数据
